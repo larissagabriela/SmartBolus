@@ -24,6 +24,14 @@ O *SmartBolus* é uma ferramenta em Python desenvolvida para a geração automat
 
 * Simulações Monte Carlo e estudos de modulação de dose superficial.
 
-## 📦 Dependências principais:
+## 🧩 Dependências principais:
 
 'pydicom', 'numpy', 'scikit-image', 'scipy', 'matplotlib'
+
+## 🏷️ Versões utilizadas no projeto
+
+* pydicom - 3.0.1
+* numpy - 1.26.4
+* scipy - 1.15.2
+* scikit-image - 0.25.2
+* matplotlib - 3.10.1
