@@ -4,25 +4,25 @@ O *SmartBolus* é uma ferramenta em Python desenvolvida para a geração automat
 
 # ⚙️ Principais funcionalidades:
 
-\item Extração e manipulação de estruturas DICOM (RTSTRUCT);
+* Extração e manipulação de estruturas DICOM (RTSTRUCT);
 
-\item Criação automática de bólus com cavidade adaptada ao PTV;
+* Criação automática de bólus com cavidade adaptada ao PTV;
 
-\item Ajuste da espessura e posição do bólus conforme critérios geométricos;
+* Ajuste da espessura e posição do bólus conforme critérios geométricos;
 
-\item Suavização da base e fechamento morfológico 3D;
+* Suavização da base e fechamento morfológico 3D;
 
-\item Exportação direta para RTSTRUCT com UID válidos;
+* Exportação direta para RTSTRUCT com UID válidos;
 
-\item Visualização opcional das máscaras 3D e cortes axiais.
+* Visualização opcional das máscaras 3D e cortes axiais.
 
 🧠 Aplicações:
 
-\item Ensino e pesquisa em radioterapia e física médica;
+* Ensino e pesquisa em radioterapia e física médica;
+  
+* Desenvolvimento de protocolos personalizados de planejamento;
 
-\item Desenvolvimento de protocolos personalizados de planejamento;
-
-\item Simulações Monte Carlo e estudos de modulação de dose superficial.
+* Simulações Monte Carlo e estudos de modulação de dose superficial.
 
 📦 Dependências principais:
 
