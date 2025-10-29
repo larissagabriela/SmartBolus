@@ -35,3 +35,7 @@ O *SmartBolus* é uma ferramenta em Python desenvolvida para a geração automat
 * scipy - 1.15.2
 * scikit-image - 0.25.2
 * matplotlib - 3.10.1
+
+## Gerando arquivo stl
+
+![Interface do programa](stl.gif)
